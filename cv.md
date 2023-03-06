@@ -3,11 +3,11 @@
 
 ### Contact information:
 
-Phone: +48 575 241 777</br>
-E-mail: hlibsuprun@gmail.com</br>
-[Telegram](https://t.me/hlibsuprun)</br>
-[LinkedIn](linkedin.com/in/hlibsuprun/)</br>
-[GitHub](https://github.com/hlibsuprun)</br>
+Phone: +48 575 241 777<br>
+E-mail: hlibsuprun@gmail.com<br>
+[Telegram](https://t.me/hlibsuprun)<br>
+[LinkedIn](linkedin.com/in/hlibsuprun/)<br>
+[GitHub](https://github.com/hlibsuprun)<br>
 
 ***
 
