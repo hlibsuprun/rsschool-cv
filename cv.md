@@ -19,13 +19,13 @@ E-mail: hlibsuprun@gmail.com<br>
 
 ### Technical skills
 
-**Basic:** HTML, CSS, Scss</br>
-**Languages:** JavaScript, TypeScript, Python</br>
-**Frameworks:** React, Tailwind</br>
-**Libraries** Redux, Styled Components</br>
-**Tests:** Jest, Vitest, Cypress</br>
-**Additional:** Git, Webpack, SOLID, OOP, FP, Scrum</br>
-**Familiarity with:** Vue Ecosystem, Angular Ecosystem, Next.js, Prisma</br>
+**Basic:** HTML, CSS, Scss<br>
+**Languages:** JavaScript, TypeScript, Python<br>
+**Frameworks:** React, Tailwind<br>
+**Libraries** Redux, Styled Components<br>
+**Tests:** Jest, Vitest, Cypress<br>
+**Additional:** Git, Webpack, SOLID, OOP, FP, Scrum<br>
+**Familiarity with:** Vue Ecosystem, Angular Ecosystem, Next.js, Prisma<br>
 
 ***
 
